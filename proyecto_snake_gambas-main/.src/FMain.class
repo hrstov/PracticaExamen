@@ -1,5 +1,6 @@
 ' Gambas class file
 
+'EDICION SUPREMA EXAMEN
 Private viborita As Serpiente
 
 Private iPasos As Integer
